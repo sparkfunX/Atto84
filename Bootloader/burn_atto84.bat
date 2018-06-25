@@ -1,0 +1,2 @@
+.\avrdude.exe -C .\avrdude.conf -c arduino -p t84 -P COM34 -b 19200 -U flash:w:.\t84_default.hex
+.\avrdude.exe -C .\avrdude.conf -c arduino -p t84 -P COM34 -b 19200 -U lfuse:w:0xe2:m -U hfuse:w:0xdd:m -U efuse:w:0xfe:m
