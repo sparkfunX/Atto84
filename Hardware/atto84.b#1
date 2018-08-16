@@ -18,34 +18,34 @@
 <layer number="22" name="bPlace" color="14" fill="1" visible="yes" active="yes"/>
 <layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="29" name="tStop" color="7" fill="3" visible="yes" active="yes"/>
-<layer number="30" name="bStop" color="7" fill="6" visible="yes" active="yes"/>
-<layer number="31" name="tCream" color="7" fill="4" visible="yes" active="yes"/>
-<layer number="32" name="bCream" color="7" fill="5" visible="yes" active="yes"/>
-<layer number="33" name="tFinish" color="6" fill="3" visible="yes" active="yes"/>
-<layer number="34" name="bFinish" color="6" fill="6" visible="yes" active="yes"/>
-<layer number="35" name="tGlue" color="7" fill="4" visible="yes" active="yes"/>
-<layer number="36" name="bGlue" color="7" fill="5" visible="yes" active="yes"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="39" name="tKeepout" color="4" fill="11" visible="yes" active="yes"/>
-<layer number="40" name="bKeepout" color="1" fill="11" visible="yes" active="yes"/>
-<layer number="41" name="tRestrict" color="4" fill="10" visible="yes" active="yes"/>
-<layer number="42" name="bRestrict" color="1" fill="10" visible="yes" active="yes"/>
-<layer number="43" name="vRestrict" color="2" fill="10" visible="yes" active="yes"/>
-<layer number="44" name="Drills" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="yes"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="no" active="yes"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
+<layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
+<layer number="30" name="bStop" color="7" fill="6" visible="no" active="yes"/>
+<layer number="31" name="tCream" color="7" fill="4" visible="no" active="yes"/>
+<layer number="32" name="bCream" color="7" fill="5" visible="no" active="yes"/>
+<layer number="33" name="tFinish" color="6" fill="3" visible="no" active="yes"/>
+<layer number="34" name="bFinish" color="6" fill="6" visible="no" active="yes"/>
+<layer number="35" name="tGlue" color="7" fill="4" visible="no" active="yes"/>
+<layer number="36" name="bGlue" color="7" fill="5" visible="no" active="yes"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="yes"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="yes"/>
+<layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="yes"/>
+<layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="yes"/>
+<layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="yes"/>
+<layer number="42" name="bRestrict" color="1" fill="10" visible="no" active="yes"/>
+<layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="yes"/>
+<layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="46" name="Milling" color="3" fill="1" visible="yes" active="yes"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="yes"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="no" active="yes"/>
 <layer number="51" name="tDocu" color="6" fill="1" visible="yes" active="yes"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="yes"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="no" active="no"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="no" active="no"/>
 <layer number="93" name="Pins" color="2" fill="1" visible="no" active="no"/>
@@ -72,8 +72,8 @@
 <layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
 <layer number="59" name="tCarbon" color="7" fill="1" visible="no" active="no"/>
 <layer number="60" name="bCarbon" color="7" fill="1" visible="no" active="no"/>
-<layer number="88" name="SimResults" color="9" fill="1" visible="yes" active="yes"/>
-<layer number="89" name="SimProbes" color="9" fill="1" visible="yes" active="yes"/>
+<layer number="88" name="SimResults" color="9" fill="1" visible="no" active="yes"/>
+<layer number="89" name="SimProbes" color="9" fill="1" visible="no" active="yes"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="no" active="no"/>
 <layer number="97" name="Info" color="7" fill="1" visible="no" active="no"/>
 <layer number="98" name="Guide" color="6" fill="1" visible="no" active="no"/>
@@ -3155,8 +3155,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="DIO-08575" x="20.32" y="6.35" size="1.778" layer="27" display="off"/>
 </element>
 <element name="FRAME1" library="SparkFun-Aesthetics" package="CREATIVE_COMMONS" value="FRAME-LETTER" x="-19.05" y="-11.43"/>
-<element name="J1" library="SparkFun-Connectors" package="USB-MICROB-PTH-MILL" value="" x="3.937" y="5.08" rot="R270">
-<attribute name="PROD_ID" value="CONN-13711" x="3.937" y="5.08" size="1.778" layer="27" rot="R270" display="off"/>
+<element name="J1" library="SparkFun-Connectors" package="USB-MICROB-PTH-MILL" value="" x="2.54" y="5.08" rot="R270">
+<attribute name="PROD_ID" value="CONN-13711" x="2.54" y="5.08" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="J2" library="SparkFun-Connectors" package="1X05_NO_SILK" value="" x="17.78" y="0" rot="R180"/>
 <element name="J3" library="SparkFun-Connectors" package="1X05_NO_SILK" value="" x="7.62" y="10.16"/>
@@ -3220,6 +3220,12 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <contactref element="R3" pad="2"/>
 <wire x1="19.47" y1="2.54" x2="19.47" y2="3.81" width="0.1524" layer="1"/>
 <contactref element="J3" pad="1"/>
+<wire x1="2.54" y1="6.38" x2="3.8723375" y2="6.35" width="0.1524" layer="1"/>
+<wire x1="3.8723375" y1="6.35" x2="4.953" y2="6.35" width="0.1524" layer="1"/>
+<wire x1="4.953" y1="6.35" x2="5.588" y2="6.985" width="0.1524" layer="1"/>
+<wire x1="5.588" y1="6.985" x2="5.588" y2="7.366" width="0.1524" layer="1"/>
+<wire x1="5.588" y1="7.366" x2="5.842" y2="7.62" width="0.1524" layer="1"/>
+<wire x1="5.842" y1="7.62" x2="6.77" y2="7.62" width="0.1524" layer="1"/>
 <wire x1="6.77" y1="7.62" x2="6.77" y2="8.636" width="0.1524" layer="1"/>
 <wire x1="6.77" y1="8.636" x2="6.77" y2="9.31" width="0.1524" layer="1"/>
 <wire x1="6.77" y1="9.31" x2="7.62" y2="10.16" width="0.1524" layer="1"/>
@@ -3237,11 +3243,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="12.7" y1="4.572" x2="12.573" y2="4.699" width="0.1524" layer="1"/>
 <wire x1="19.177" y1="5.08" x2="12.954" y2="5.08" width="0.1524" layer="16"/>
 <wire x1="12.954" y1="5.08" x2="12.573" y2="4.699" width="0.1524" layer="16"/>
-<wire x1="3.937" y1="6.38" x2="5.11" y2="6.38" width="0.1524" layer="1"/>
-<wire x1="5.11" y1="6.38" x2="5.842" y2="7.112" width="0.1524" layer="1"/>
-<wire x1="5.842" y1="7.112" x2="5.842" y2="7.493" width="0.1524" layer="1"/>
-<wire x1="5.842" y1="7.493" x2="5.969" y2="7.62" width="0.1524" layer="1"/>
-<wire x1="5.969" y1="7.62" x2="6.77" y2="7.62" width="0.1524" layer="1"/>
 </signal>
 <signal name="GND">
 <contactref element="U1" pad="8"/>
@@ -3280,6 +3281,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <contactref element="R3" pad="1"/>
 <contactref element="D2" pad="C"/>
 <contactref element="R1" pad="1"/>
+<wire x1="2.54" y1="5.73" x2="4.93658125" y2="5.69858125" width="0.1524" layer="1"/>
 <wire x1="4.93658125" y1="5.69858125" x2="5.588" y2="6.35" width="0.1524" layer="1"/>
 <wire x1="5.588" y1="6.35" x2="6.47" y2="6.35" width="0.1524" layer="1"/>
 <wire x1="6.47" y1="6.35" x2="7.62" y2="6.35" width="0.1524" layer="1"/>
@@ -3288,14 +3290,13 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="7.747" y1="7.62" x2="8.47" y2="7.62" width="0.1524" layer="1"/>
 <wire x1="8.47" y1="7.62" x2="10.58" y2="7.62" width="0.1524" layer="1"/>
 <wire x1="10.58" y1="7.62" x2="10.668" y2="7.708" width="0.1524" layer="1"/>
-<wire x1="4.93658125" y1="5.69858125" x2="3.96841875" y2="5.69858125" width="0.1524" layer="1"/>
-<wire x1="3.96841875" y1="5.69858125" x2="3.937" y2="5.73" width="0.1524" layer="1"/>
 </signal>
 <signal name="D+">
 <contactref element="J1" pad="D+"/>
 <contactref element="R4" pad="2"/>
 <contactref element="D1" pad="C"/>
 <contactref element="R2" pad="1"/>
+<wire x1="2.54" y1="5.08" x2="4.98441875" y2="5.04858125" width="0.1524" layer="1"/>
 <wire x1="4.98441875" y1="5.04858125" x2="5.461" y2="4.572" width="0.1524" layer="1"/>
 <wire x1="5.461" y1="4.572" x2="5.461" y2="4.191" width="0.1524" layer="1"/>
 <wire x1="5.461" y1="4.191" x2="5.842" y2="3.81" width="0.1524" layer="1"/>
@@ -3307,8 +3308,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="7.747" y1="2.54" x2="8.47" y2="2.54" width="0.1524" layer="1"/>
 <wire x1="8.47" y1="2.54" x2="10.707" y2="2.54" width="0.1524" layer="1"/>
 <wire x1="10.707" y1="2.54" x2="10.795" y2="2.452" width="0.1524" layer="1"/>
-<wire x1="4.98441875" y1="5.04858125" x2="3.96841875" y2="5.04858125" width="0.1524" layer="1"/>
-<wire x1="3.96841875" y1="5.04858125" x2="3.937" y2="5.08" width="0.1524" layer="1"/>
 </signal>
 <signal name="PB0">
 <contactref element="U1" pad="11"/>
@@ -3464,15 +3463,10 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="0" y="0"/>
 </polygon>
 <via x="0.889" y="9.271" extent="1-16" drill="0.381"/>
-<wire x1="4.132" y1="7.51" x2="4.212" y2="7.98" width="0" layer="19" extent="1-16"/>
-<wire x1="4.212" y1="2.18" x2="4.132" y2="2.65" width="0" layer="19" extent="1-16"/>
+<wire x1="2.735" y1="7.51" x2="2.815" y2="7.98" width="0" layer="19" extent="1-16"/>
 </signal>
 </signals>
 <errors>
-<approved hash="4,1,e25c7e873cc4bca0"/>
-<approved hash="4,1,67f9e182bc5635ce"/>
-<approved hash="5,1,5cce0ee3e67c0589"/>
-<approved hash="5,1,b5b9f0dbf4ca8a90"/>
 <approved hash="4,1,023a2ebf2eb50230"/>
 <approved hash="4,1,f05e14399f403ed6"/>
 <approved hash="4,1,a33687b387a9a32c"/>
@@ -3491,10 +3485,14 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <approved hash="4,1,7d3c913e6e348236"/>
 <approved hash="4,1,c4a68d2966f47998"/>
 <approved hash="4,1,2a283e2ac120d522"/>
-<approved hash="4,1,7d45d4ac85f6a2fa"/>
 <approved hash="4,1,bf40343c4a9b5b81"/>
+<approved hash="4,1,7d45d4ac85f6a2fa"/>
 <approved hash="4,1,cb27a72558133411"/>
 <approved hash="4,1,1ca7ed0048dc0b9a"/>
+<approved hash="4,1,e25c7e873cc4bca0"/>
+<approved hash="4,1,67f9e182bc5635ce"/>
+<approved hash="5,1,5cce0ee3e67c0589"/>
+<approved hash="5,1,b5b9f0dbf4ca8a90"/>
 <approved hash="4,16,023a2ebf2eb50230"/>
 <approved hash="4,16,a33687b387a9a32c"/>
 <approved hash="4,16,d82324a624ddd858"/>
